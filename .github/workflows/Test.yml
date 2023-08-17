@@ -13,7 +13,7 @@ jobs:
         run: |
           # kakathic
           bash .github/Test.sh
-          TENZ="miui_MIMIX2Global_V12.0.1.0.PDEMIXM_64006b3102_9.0.zip"
+          TENZ="Paper_MIX2_MIUI12.5-r9.7-%E9%BE%99%E8%85%BE%E8%B1%B9%E5%8F%98.zip"
           echo "TENZ=$TENZ" >> $GITHUB_ENV
           echo "TENZ=$TENZ" >> 123.txt
       - name: 'Upload Rom'
