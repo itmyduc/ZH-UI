@@ -5,7 +5,7 @@ on:
       URL:
         description: 'Hãy điền đường dẫn url của link rom để tải xuống'
         required: true
-        default: 'https://down.warbler.cc/XiaoMi-Mix-2/MIUI-Xuebao/Paper_MIX2_MIUI12.5-r9.7-%E9%BE%99%E8%85%BE%E8%B1%B9%E5%8F%98.zip'
+        default: '9126805504'
       SIZE:
         description: 'Kích cỡ phân vùng super'
         required: true
